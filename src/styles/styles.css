@@ -1,0 +1,22 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #343a40;
+    text-align: center;
+    color: darkblue;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
